@@ -31,11 +31,11 @@ A simple command-line-based movie ticket booking system implemented in C++. It a
    - Clone the repository or download the source code.
    - Compile the code using a C++ compiler:
      ```bash
-     g++ main.cpp -o movie_booking
+     g++ main.cpp -o Movie_Booking_System
      ```
    - Run the executable:
      ```bash
-     ./movie_booking
+     ./Movie_Booking_System
      ```
 
 ---
